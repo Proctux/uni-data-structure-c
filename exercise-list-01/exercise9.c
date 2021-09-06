@@ -9,12 +9,12 @@
 
 int main()
 {
-  double farenheit, kelvin;
+  double fahrenheit, kelvin;
 
-  printf("Tell me the value that want you want to converted from Farenheit to Kelvin: ");
-  scanf("%lf", &farenheit);
+  printf("Tell me the value that you want to converted from Fahrenheit to Kelvin: ");
+  scanf("%lf", &fahrenheit);
 
-  kelvin = (farenheit - 32) * 5 / 9 + 273.15;
+  kelvin = (fahrenheit - 32) * 5 / 9 + 273.15;
   printf("The value converted is %lf Kelvin", kelvin);
 
   return 0;

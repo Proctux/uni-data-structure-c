@@ -13,7 +13,7 @@ int main()
   printf("Choose an integer number: ");
   scanf("%d", &number);
 
-  tenPercentNumber = number / 10;
+  tenPercentNumber = number / 10.0;
   printf("10%% of the choosen number is: %lf", tenPercentNumber);
 
   return 0;
