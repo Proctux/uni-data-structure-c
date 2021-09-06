@@ -18,4 +18,6 @@ int main()
   kelvin = celsius + 273.15;
   fahrenheit = (celsius * 9 / 5) + 32;
   printf("The values converted are %lf Fahrenheit and %lf Kelvin", fahrenheit, kelvin);
+
+  return 0;
 }

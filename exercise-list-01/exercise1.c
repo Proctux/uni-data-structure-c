@@ -17,4 +17,6 @@ int main()
   scanf("%f", &fahrenheit);
   celsius = (5.0 / 9) * (fahrenheit - 32);
   printf("The equivalent value in Celsius is %f", celsius);
+
+  return 0;
 }

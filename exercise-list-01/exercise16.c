@@ -26,4 +26,6 @@ int main()
 
   thirdWinnerAmount = prize * thirdWinnerPercentage / 100;
   printf("The third winner will receive %lf equivalent to %lf%% of prize amount \n", thirdWinnerAmount, thirdWinnerPercentage);
+
+  return 0;
 }

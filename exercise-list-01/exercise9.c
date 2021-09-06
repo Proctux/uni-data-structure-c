@@ -16,4 +16,6 @@ int main()
 
   kelvin = (farenheit - 32) * 5 / 9 + 273.15;
   printf("The value converted is %lf Kelvin", kelvin);
+
+  return 0;
 }

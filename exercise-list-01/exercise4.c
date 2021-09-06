@@ -14,4 +14,6 @@ int main()
 
   squareNumber = number * number;
   printf("The square of that choosen number is: %d", squareNumber);
+
+  return 0;
 }

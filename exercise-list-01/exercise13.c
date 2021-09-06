@@ -15,4 +15,6 @@ int main()
   sum = (valueOne * valueOne) + (valueTwo * valueTwo) + (valueThree * valueThree);
 
   printf("The final result is %lf", sum);
+
+  return 0;
 }

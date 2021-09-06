@@ -26,4 +26,6 @@ int main()
     fieldArea = width * height;
     printf("The field area is: %f m2", fieldArea);
   }
+
+  return 0;
 }

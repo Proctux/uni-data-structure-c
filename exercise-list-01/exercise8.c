@@ -17,4 +17,6 @@ int main()
   celsius = kelvin - 273.15;
 
   printf("The value converted is %lf Celsius", celsius);
+
+  return 0;
 }

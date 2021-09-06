@@ -16,4 +16,6 @@ int main()
 
   fahrenheit = (kelvin - 273.15) * 9 / 5 + 32;
   printf("The value converted is %lf Fahrenheit", fahrenheit);
+
+  return 0;
 }

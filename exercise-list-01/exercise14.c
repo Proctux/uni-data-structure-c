@@ -15,4 +15,6 @@ int main()
 
   newSalary = salary + (salary * increase);
   printf("You new salary after the increase is: %lf", newSalary);
+
+  return 0;
 }

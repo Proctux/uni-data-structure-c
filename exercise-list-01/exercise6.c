@@ -14,4 +14,6 @@ int main()
 
   total = numberTwo + numberOne;
   printf("The sum between then is: %lf", total);
+
+  return 0;
 }

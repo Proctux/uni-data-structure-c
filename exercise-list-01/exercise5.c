@@ -15,4 +15,6 @@ int main()
 
   tenPercentNumber = number / 10;
   printf("10%% of the choosen number is: %lf", tenPercentNumber);
+
+  return 0;
 }

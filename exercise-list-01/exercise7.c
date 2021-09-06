@@ -20,4 +20,6 @@ int main()
   divisionTwo = numberTwo / numberOne;
 
   printf("The sum is: %d. The decrease is: %d. The division from %d by %d is: %lf. The division between %d by %d is: %lf. The multiplication between then is: %d", sum, decrease, numberOne, numberTwo, divisionOne, numberTwo, numberOne, divisionTwo, times);
+
+  return 0;
 }

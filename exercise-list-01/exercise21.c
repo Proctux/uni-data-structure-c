@@ -46,4 +46,6 @@ int main()
 
   // It will print a blank line:
   printf("\n");
+
+  return 0;
 }

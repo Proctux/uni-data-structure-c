@@ -21,4 +21,6 @@ int main()
 
   result = x * y * z;
   printf("The result is %d", result);
+
+  return 0;
 }

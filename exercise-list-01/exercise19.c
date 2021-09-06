@@ -68,4 +68,6 @@ int main()
   // I - printf can't have his first letter in uppercase. There is one double quotes missed in the end.
   // To print values, we don't use the & symbol. It is used for attribute values in scans.
   printf("O valor fornecido é: %d", valor);
+
+  return 0;
 }

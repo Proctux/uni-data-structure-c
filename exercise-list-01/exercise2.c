@@ -12,4 +12,6 @@ int main()
   scanf("%f %f %f", &gradeOne, &gradeTwo, &gradeThree);
   double media = (gradeOne + gradeTwo + gradeThree) / 3;
   printf("The student media is: %f", media);
+
+  return 0;
 }

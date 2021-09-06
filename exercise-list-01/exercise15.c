@@ -20,4 +20,6 @@ int main()
   area = 4 * pi * (radius * radius);
   volume = (4 * pi * (radius * radius * radius)) / 3;
   printf("The volume is %lf and the area is %lf", volume, area);
+
+  return 0;
 }

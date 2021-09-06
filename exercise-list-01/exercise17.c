@@ -16,4 +16,6 @@ int main()
 
   media = (gradeOne + gradeTwo + (gradeThree * 2)) / 4;
   printf("The student's media is: %lf", media);
+
+  return 0;
 }

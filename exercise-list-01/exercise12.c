@@ -19,4 +19,6 @@ int main()
   area = base * height / 2;
 
   printf("The area from this triangle rectangle is %lf ", area);
+
+  return 0;
 }

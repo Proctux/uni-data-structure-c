@@ -26,4 +26,6 @@ int main()
   y = tmp;
 
   printf("\n x = %d \n y = %d\n", x, y);
+
+  return 0;
 }
